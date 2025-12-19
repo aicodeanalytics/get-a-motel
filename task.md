@@ -49,3 +49,6 @@
 - [x] Implement Authorize-then-Capture flow
 - [x] Add Audit Logging for financial/rate changes
 - [x] Project Bootstrap & MVP logic finalized
+- [x] Save all documentation to `docs/` folder
+- [x] Initialize Git repository and create `.gitignore`
+- [x] Initial commit completed
