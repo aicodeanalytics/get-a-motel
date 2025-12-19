@@ -50,5 +50,7 @@
 - [x] Add Audit Logging for financial/rate changes
 - [x] Project Bootstrap & MVP logic finalized
 - [x] Save all documentation to `docs/` folder
+- [x] Change project name to `get-a-motel`
+- [x] Link to remote origin and push to GitHub
 - [x] Initialize Git repository and create `.gitignore`
 - [x] Initial commit completed
