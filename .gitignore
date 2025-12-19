@@ -1,0 +1,65 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.nbproject/
+
+# Java/Kotlin (Backend)
+**/build/
+**/.gradle/
+**/bin/
+**/target/
+**/out/
+.gradletasknamecache
+*.[jrw]ks
+**/gradle-app.setting
+!**/src/**/build/
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Quarkus
+.quarkus/
+
+# Flutter (Frontend)
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.packages
+frontend/build/
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/ios/Flutter/Flutter.framework
+frontend/ios/Flutter/Flutter.podspec
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/App.framework
+frontend/ios/ServiceDefinitions.json
+frontend/pubspec.lock
+
+# Documentation
+docs/site/
+
+# Sensitive Data (Environment variables and secrets)
+**/application-secrets.properties
+**/secrets.json
+**/*.pem
+**/*.key
+**/*.cert
+**/*.p12
+.env
+.env.*
+! .env.example
